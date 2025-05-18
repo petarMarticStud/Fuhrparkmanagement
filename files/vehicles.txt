@@ -1,0 +1,2 @@
+LKW: h, a, d, 2t Nutzlast
+PKW: w, s, sdf, 4 Sitzplätze
